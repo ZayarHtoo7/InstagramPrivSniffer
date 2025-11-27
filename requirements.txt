@@ -1,2 +1,2 @@
 requests
-python main.py -h
+python -m pip install -r requirements.txt
